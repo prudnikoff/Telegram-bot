@@ -1,1 +1,1 @@
-Telegram Bot, that helps you to make all your labs and to control working time.
+This useful telegram bot'll help you to make your labs and control working time.
